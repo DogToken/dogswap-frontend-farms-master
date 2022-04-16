@@ -1828,7 +1828,7 @@
     eslint-plugin-react "^7.21.5"
     eslint-plugin-react-hooks "^4.0.0"
 
-"@pancakeswap-libs/uikit@goosedefi/goose-uikit":
+"@mintswapcash/uikit@goosedefi/goose-uikit":
   version "0.10.2"
   resolved "https://codeload.github.com/goosedefi/goose-uikit/tar.gz/068e017bb0f927c566a43596fb555a5818e13154"
   dependencies:
