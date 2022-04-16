@@ -32,7 +32,7 @@ const farms: FarmConfig[] = [
       24734: '0xf952fc3ca7325cc27d15885d37117676d25bfda6',
     },
     quoteTokenSymbol: QuoteToken.BNB,
-    quoteTokenAdresses: contracts.WBNB,
+    quoteTokenAdresses: contracts.wbnb,
   },
   {
     pid: 2,
