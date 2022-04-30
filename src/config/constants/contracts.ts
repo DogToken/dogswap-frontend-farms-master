@@ -24,7 +24,7 @@ export default {
     37480: '0xda08ec6a53b54a1f803eca193903ea9d1d3cd681',
   },
   busd: {
-    24734: '0xe9e7cea3dedca5984780bafc599bd69add087d56',
+    24734: '0xE030c409a69B88D988Ad955F35E87FE1ccF64b98',
     37480: '',
   },
 }
